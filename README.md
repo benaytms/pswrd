@@ -1,4 +1,6 @@
 #### ***PSWRD***
+![credentials_log](./data/credentialslogImage.png)
+
 #### ***Script Rundown***  
 
 *pswrd.py*  
@@ -37,6 +39,5 @@ it's fairly simple to do.
 * chmod u+x pswrd.sh .credentials
 * ./pswrd.sh <login>
 * python3 pswrd.py
-
 
 

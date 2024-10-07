@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SAVE_PATH="./.credentials"
+SAVE_PATH="./data/.credentials"
 
 REF="$1"
 

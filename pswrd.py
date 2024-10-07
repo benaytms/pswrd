@@ -8,7 +8,7 @@ from PyQt5 import QtWidgets, QtGui, QtCore
 
 # this is the path where the credentials are stored
 # check README file to understand how to syntax it 
-SAVE_PATH = './.credentials'
+SAVE_PATH = './data/.credentials'
 
 
 # this is a config to improve the font on the interface, so it's less pixelated
