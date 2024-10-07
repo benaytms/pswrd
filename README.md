@@ -17,8 +17,8 @@ Which was made to create a secure password, associate it to a given login
 and then save it on to the .credentials file (which you can change if you want, 
 you just need to change the variable SAVE_FILE on pswrd.py and pswrd.sh).  
 
-This is how it saves them: 
-<login>=<password>
+This is how it saves them:  
+(login)=(password)
 
 
 This script was made mainly for practicing and not for actual use,
