@@ -1,5 +1,9 @@
 #### ***PSWRD***
+<<<<<<< HEAD
 ![credentials_log](./data/credentialslogImage.png)
+=======
+![credentials_log](./credentials/credentialslogImage.png)
+>>>>>>> f05c57aca93da18f4420c9f86a7f5de94b8da35c
 
 #### ***Script Rundown***  
 
