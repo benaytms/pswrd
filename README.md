@@ -37,7 +37,7 @@ it's fairly simple to do.
 * git clone https://github.com/benaytms/pswrd.git
 * cd pswrd/
 * chmod u+x pswrd.sh .credentials
-* ./pswrd.sh <login>
+* ./pswrd.sh (login-you-want)
 * python3 pswrd.py
 
 
