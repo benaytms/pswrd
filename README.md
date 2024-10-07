@@ -1,8 +1,7 @@
 #### ***PSWRD***
 #### ***Script Rundown***  
 
-pswrd.py  
-
+*pswrd.py*  
 This was an idea i had of making an app that contains all my passwords and credentials
 in a concise interface.  
 Basically what it does is that it takes a plain or text file,
@@ -11,7 +10,7 @@ then puts them in a dictionary and presents them in the GUI Interface using
 PyQt5.  
 
 
-There's also the shell script (pswrd.sh).  
+There's also the shell script *pswrd.sh*.  
 Which was made to create a secure password, associate it to a given login
 and then save it on to the .credentials file (which you can change if you want, 
 you just need to change the variable SAVE_FILE on pswrd.py and pswrd.sh).  
