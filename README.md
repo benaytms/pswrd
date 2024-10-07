@@ -1,5 +1,5 @@
 #### ***PSWRD***
-![credentials_log](./credentialslogImage.png)
+![credentials_log](./credentials/credentialslogImage.png)
 
 #### ***Script Rundown***  
 
