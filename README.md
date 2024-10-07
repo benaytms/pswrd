@@ -34,7 +34,7 @@ it's fairly simple to do.
 
 #### ***How to Run***  
 
-* git clone <>
+* git clone https://github.com/benaytms/pswrd.git
 * cd pswrd/
 * chmod u+x pswrd.sh .credentials
 * ./pswrd.sh <login>
