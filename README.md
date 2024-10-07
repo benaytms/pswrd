@@ -4,7 +4,7 @@
 #### ***Script Rundown***  
 
 *pswrd.py*  
-This was an idea i had of making an app that contains all my passwords and credentials
+The basic idea i had was to make an app that contains all my passwords and credentials
 in a concise interface.  
 Basically what it does is that it takes a plain or text file,
 uses an equal sign pattern to select what is login and what is password, 
