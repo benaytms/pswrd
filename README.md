@@ -21,8 +21,7 @@ This is how it saves them:
 (login)=(password)
 
 
-This script was made for practice and not for actual use
-
+**This script was made for practice and not for actual use**
 
 #### ***Dependencies***  
 
