@@ -26,7 +26,7 @@ This is how it saves them:
 #### ***Dependencies***  
 
 * PyQt5: pip install PyQt5
-* apg: sudo apt install apg // sudo dnf install apg
+* apg: sudo apt install apg
 
 
 #### ***How to Run***  
@@ -34,7 +34,7 @@ This is how it saves them:
 * git clone https://github.com/benaytms/pswrd.git
 * cd pswrd/
 * chmod u+x pswrd.sh .credentials
-* ./pswrd.sh login-you-want
+* ./pswrd.sh {login-you-want}
 * python3 pswrd.py
 
 
