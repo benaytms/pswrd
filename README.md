@@ -21,9 +21,7 @@ This is how it saves them:
 (login)=(password)
 
 
-This script was made mainly for practicing and not for actual use,
-but if you want to you can create a desktop application and associate it with the python file,
-it's fairly simple to do.
+This script was made for practice and not for actual use
 
 
 #### ***Dependencies***  
