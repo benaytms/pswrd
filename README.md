@@ -33,7 +33,7 @@ This is how it saves them:
 
 * git clone https://github.com/benaytms/pswrd.git
 * cd pswrd/
-* chmod u+x pswrd.sh .credentials
+* chmod u+x pswrd.sh ./data/credentials
 * ./pswrd.sh {login-you-want}
 * python3 pswrd.py
 
