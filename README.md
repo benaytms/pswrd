@@ -3,6 +3,8 @@
 
 #### ***Script Rundown***  
 
+**This script was made for practice and not for actual use**  
+
 *pswrd.py*  
 The basic idea i had was to make an app that contains all my passwords and credentials
 in a concise interface.  
@@ -19,9 +21,6 @@ you just need to change the variable SAVE_FILE on pswrd.py and pswrd.sh).
 
 This is how it saves them:  
 (login)=(password)
-
-
-**This script was made for practice and not for actual use**
 
 #### ***Dependencies***  
 
